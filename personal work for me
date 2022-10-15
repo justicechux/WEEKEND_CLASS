@@ -1,0 +1,10 @@
+from turtle import color
+
+
+name = "justice"
+amount = "seven thousand"
+color = "blue"
+car = "lexus"
+location = "kano"
+
+print(f"hello {name}, your {color} {car} just arrived from {location} and you are to pay {amount}")
